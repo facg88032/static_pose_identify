@@ -25,6 +25,7 @@ np.save("sit.npy",data)
 
 print('abc')
 
+print('GGG')
 
 print('ttt')
 

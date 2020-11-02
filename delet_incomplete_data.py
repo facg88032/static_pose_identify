@@ -23,11 +23,7 @@ while True:
 print(data.shape)
 np.save("sit.npy",data)
 
-print('abc')
 
-print('GGG')
-
-print('ttt')
 
 
 

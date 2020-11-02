@@ -26,7 +26,7 @@ np.save("sit.npy",data)
 print('abc')
 
 
-
+print('ttt')
 
 
 
